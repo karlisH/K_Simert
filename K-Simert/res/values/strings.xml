@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simert</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="zone1">Zona 1</string>
+    <string name="ayuda">Bienvenido a K-Parking una aplicacion diseñada para ayudarle a	encontrar lugares disponibles en parqueaderos de su ciudad. Busque dentro del mapa el parqueadero de su preferencia, podra acceder a informacion de lugares (plazas) libres presionando el icono del parqueadero seleccionado, guiese por su color descrito a continuacion:</string>
+
+</resources>
